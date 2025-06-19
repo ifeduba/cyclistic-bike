@@ -25,6 +25,7 @@ This project focuses on understanding differences in riding behavior between cas
     ## Visualization
 Visualization and Analysis
 ![Dashboard 1 (2)](https://github.com/user-attachments/assets/97082103-8447-4071-966b-40abbd2a5d82)
+# Analysis
  User Type Distribution
 Members accounted for a higher number of rides compared to casual users.
 
