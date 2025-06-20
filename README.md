@@ -1,4 +1,4 @@
-# cyclistic-bike
+# Cyclistic data exploration
 
 
 ![freepik__animated-cyclistic-bikes-speeding-along-a-rainy-ch__2094](https://github.com/user-attachments/assets/82f8cd8e-942a-4ef4-9603-6cab7301cf0a)
